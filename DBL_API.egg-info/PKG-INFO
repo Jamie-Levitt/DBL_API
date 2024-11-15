@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: DBL_API
+Version: 0.1.0
+Summary: Tools for Dragon Ball Legends API
+Author: Jamie Levitt
+Requires: bs4

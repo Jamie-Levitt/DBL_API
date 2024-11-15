@@ -1,0 +1,15 @@
+setup.py
+DBL_API/Scraping.py
+DBL_API/__init__.py
+DBL_API/utils.py
+DBL_API.egg-info/PKG-INFO
+DBL_API.egg-info/SOURCES.txt
+DBL_API.egg-info/dependency_links.txt
+DBL_API.egg-info/top_level.txt
+DBL_API/Database/EquipUtils.py
+DBL_API/Database/TraitUtils.py
+DBL_API/Database/__init__.py
+DBL_API/Database/utils.py
+DBL_API/Types/DataTypes.py
+DBL_API/Types/FlagTypes.py
+DBL_API/Types/__init__.py
